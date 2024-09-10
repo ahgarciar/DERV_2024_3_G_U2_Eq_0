@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/CambioEscenaScore/Inicio.unity
+    guid: bf8e54082296343c39a29328166ab846
+  - enabled: 1
+    path: Assets/CambioEscenaScore/EntornoVirtualP.unity
+    guid: 55df61291a2a94751bcdd20013cb431a
+  - enabled: 1
+    path: Assets/CambioEscenaScore/Fin.unity
+    guid: 12ff8ae5418174336bd57a26198959df
   m_configObjects: {}
